@@ -1,0 +1,16 @@
+0    0              ! DGFLAG and GRAVFLAG
+0                   ! SEDFLAG
+2                   ! SEDFORMULA (1 = Lund, 2 = Watanabe)
+10                  ! M_TIMESTEP - morphological time step factor ***
+1.000000            ! MAG_SED - magnification factor for sediment transport
+2650.000000         ! RHOSED0 - sediment density
+0.000000            ! D50 - sediment grain size
+1.000000            ! THETAC - Critical threshold
+1035.000000         ! RHOWAT0 - water density
+0.000000            ! DIFFSED - transport slope coefficient
+15.000000           ! A0 - Transport Rate Coeff
+0.400000            ! POROSITY - sediment porosity
+2                   ! DG-TO-CG  - mapping
+3                   ! D_FREEDOM
+1                   ! SLOPEFLAG
+0                   ! HBFLAG
